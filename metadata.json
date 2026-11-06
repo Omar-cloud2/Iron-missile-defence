@@ -1,0 +1,8 @@
+{
+  "name": "Iron Shield: Missile Defense Command",
+  "description": "Tactical air defense simulator. Intercept incoming ballistic missiles, swarms, and hypersonic threats using Iron Dome, Patriot, and THAAD batteries with upgradeable radar locks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
